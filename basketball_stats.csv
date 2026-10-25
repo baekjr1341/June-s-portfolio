@@ -1,6 +1,13 @@
-Date,Position,Points,Rebounds,Assists,3PT_Attempts,3PT_Made
-2026-05-10,Center,12,15,2,0,0
-2026-05-17,Center,14,12,3,1,0
-2026-05-24,Shooting Guard,18,5,4,6,2
-2026-05-31,Shooting Guard,22,4,5,8,4
-2026-06-07,Shooting Guard,16,6,6,7,3
+Date,Position,Points,Rebounds,Assists,3PT_Attempts,3PT_Made,FG_Attempts,FG_Made,FT_Attempts,FT_Made,Practice_3PT_Vol,Training_Note
+2026-05-10,Center,12,15,2,0,0,0,0,0,0,0,
+2026-05-17,Center,14,12,3,1,0,0,0,0,0,0,
+2026-05-24,Shooting Guard,18,5,4,6,2,0,0,0,0,0,
+2026-05-31,Shooting Guard,22,4,5,8,4,0,0,0,0,0,
+2026-06-07,Shooting Guard,16,6,6,7,3,0,0,0,0,0,
+2026-10-25,Shooting Guard,17,6,3,7,3,13,7,1,1,200,집중력이 떨어져서 5개 연속으로 슛을 놓치는 실수가 없었다.
+2026-10-26,Shooting Guard,8,1,0,4,2,7,3,0,0,300,
+2026-10-27,Shooting Guard,21,13,2,6,4,9,7,1,1,150,
+2026-10-28,Shooting Guard,9,0,0,5,3,5,3,0,0,50,
+2026-10-29,Shooting Guard,20,3,1,13,6,15,7,0,0,100,
+2026-10-30,Shooting Guard,9,4,2,5,3,5,3,0,0,200,
+2026-10-25,Shooting Guard,16,2,0,7,4,10,6,0,0,150,
