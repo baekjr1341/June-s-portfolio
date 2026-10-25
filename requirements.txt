@@ -5,3 +5,4 @@ plotly
 numpy
 openai
 scikit-learn
+reportlab
